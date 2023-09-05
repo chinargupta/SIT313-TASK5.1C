@@ -1,0 +1,25 @@
+/* QuestionForm.css */
+
+/* Form styles */
+.Form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .Form.TextArea {
+    margin-bottom: 15px;
+  }
+  
+  /* Primary button styles */
+  .Button.primary {
+    background-color: #003cff;
+    color: #fff;
+    border: none;
+  }
+  
+  .Button.primary:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Optional: Add more styles as needed */
+  

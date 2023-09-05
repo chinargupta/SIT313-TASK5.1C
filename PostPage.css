@@ -1,0 +1,23 @@
+/* PostPage.css */
+/* Container styles */
+.Container {
+    margin-top: 20px;
+  }
+  
+  /* Segment styles */
+  .Segment {
+    padding: 1px;
+  }
+  
+  /* Button styles */
+  .Button.Group {
+    margin-bottom: 20px;
+  }
+
+  /* Active button styles */
+  .Button.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  /* Optional: Add styles for other elements and components as needed */

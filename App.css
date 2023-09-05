@@ -1,0 +1,23 @@
+/* PostPage.css */
+/* Container styles */
+.Container {
+  margin-top: 20px;
+}
+
+/* Segment styles */
+.Segment {
+  padding: 10px; /* Decrease the padding value to your preferred size */
+}
+
+/* Form styles */
+.Form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+/* Radio button styles */
+.Radio {
+  margin-top: 10px;
+}
+
+/* Optional: Add more styles as needed */
